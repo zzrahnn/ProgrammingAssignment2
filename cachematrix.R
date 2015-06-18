@@ -1,5 +1,5 @@
 ##The following two functions are used to create a special object 
-##that it scores a matrix and cache's its inverse.
+##that it stores a matrix and cache's its inverse.
 
 ##This function makeCacheMatrix creats a special"matrix",
 ##which is to get the value of the inverse matrix
